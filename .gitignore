@@ -6,7 +6,6 @@
 .expo/
 
 # VSCode
-.vscode/
 jsconfig.json
 
 # Xcode
@@ -70,3 +69,4 @@ android/keystores/debug.keystore
 lib/
 
 ios
+config.bat
